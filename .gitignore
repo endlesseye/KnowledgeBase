@@ -18,8 +18,11 @@ $RECYCLE.BIN/
 
 
 ###history
-###.Archive/
+.Archive/
 
+.md_configs.data
+.me_configs.data
+_config.yml
 
 
 .sync/*
