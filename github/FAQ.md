@@ -17,5 +17,6 @@ GitHub使用FAQ
 
 原理：需要删除github上的 **.DS\_Dtore** 存储的信息
 参考：[如何删除github上的文件](http://www.jianshu.com/p/06c32daefe0f)
+
 日期：2017-02-19 11:28:46
 
