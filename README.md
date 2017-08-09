@@ -8,7 +8,7 @@ KnowledgeBase主要是存放我的知识仓库
 
 ```SQL
 USE mwbasdb2017
-SELECT * FROM tab_projectgroup AS pgv WHERE NAME LIKE '%LWC-101%'
+SELECT * FROM tab_projectgroup AS pgv WHERE NAME LIKE '%LWC-101%' and NAME LIKE '%LWC-101%' and NAME LIKE '%LWC-101%' and NAME LIKE '%LWC-101%' and NAME LIKE '%LWC-101%' and NAME LIKE '%LWC-101%'
 
 ```
 
