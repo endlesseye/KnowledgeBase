@@ -6,3 +6,14 @@ KnowledgeBase主要是存放我的知识仓库
 知识点之间的关联通过超链接的方式进行
 
 
+```SQL
+USE mwbasdb2017
+SELECT * FROM tab_projectgroup AS pgv WHERE NAME LIKE '%LWC-101%'
+
+```
+
+```XML
+<AAA>AAA</AAA>
+
+
+
